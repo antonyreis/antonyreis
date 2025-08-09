@@ -24,7 +24,7 @@
 
 ## 📌 O que você encontra por aqui
 - Projetos de estudo e experimentos de código  
-- Pipelines e scripts para manipulação de dados (principalmente MongoDB)  
+- Pipelines e scripts para manipulação de dados
 - Ferramentas e utilitários que resolvem problemas reais  
 - Testes e protótipos para validar ideias antes de virarem projetos grandes  
 
@@ -38,9 +38,13 @@
 ---
 
 ## 📫 Como me encontrar
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonyto.matheus@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](antony-reis-a71609285)
-
+<div>
+<!-- <a href = "mailto:tonyto.matheus@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+<a href="https://mail.google.com/mail/?view=cm&to=tonyto.matheus@gmail.com" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/antony-reis-a71609285" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 ---
 
 💡 *“Código limpo é como uma boa piada — não precisa de explicação.”*
