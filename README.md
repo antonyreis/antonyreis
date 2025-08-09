@@ -45,6 +45,7 @@
 </a>
 <a href="https://www.linkedin.com/in/antony-reis-a71609285" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 ---
 
 💡 *“Código limpo é como uma boa piada — não precisa de explicação.”*
